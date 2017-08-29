@@ -36,6 +36,9 @@ genome
 kcloud
 memscan
 
+# ML detection
+confidence
+
 # Malware classes
 trojan
 horse
